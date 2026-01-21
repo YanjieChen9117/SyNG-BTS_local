@@ -1,5 +1,5 @@
 data/
-RNA-seq_augmentation/
+RNA-seq_augmentation_data/
 
 # Python cache files
 __pycache__/
