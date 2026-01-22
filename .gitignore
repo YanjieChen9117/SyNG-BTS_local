@@ -1,5 +1,7 @@
 data/
 RNA-seq_augmentation_data/
+visualization/evaluation_results/
+report/
 
 # Python cache files
 __pycache__/
